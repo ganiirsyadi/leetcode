@@ -20,3 +20,8 @@ func maxSubArray(nums []int) (overallMax int) {
 	}
 	return
 }
+
+/*
+Runtime: 4 ms, faster than 96.38% of Go online submissions for Maximum Subarray.
+Memory Usage: 3.2 MB, less than 38.29% of Go online submissions for Maximum Subarray.
+*/
