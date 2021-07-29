@@ -22,6 +22,7 @@ console.log(climbStairs(3))
  * climbStairs(3) = [1,1,1] [1,2] [2,1]
  * Recursion: cari base case
  * Memoizazion: save the value
+ * Basically a fibbonacci problem
  */
 
 /**
