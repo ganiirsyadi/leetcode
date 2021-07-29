@@ -23,6 +23,8 @@ console.log(climbStairs(3))
  * Recursion: cari base case
  * Memoizazion: save the value
  * Basically a fibbonacci problem
+ * 
+ * TIPS: coba dari 0 - berapa buat cari tau polanya
  */
 
 /**
